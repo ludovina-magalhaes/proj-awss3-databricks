@@ -1,7 +1,5 @@
 {
-    "job_id": 917660549276001,
-    "creator_user_name": "dataludo@gmail.com",
-    "run_as_user_name": "dataludo@gmail.com",
+
     "run_as_owner": true,
     "settings": {
       "name": "pipeline-online-retail",
